@@ -4,7 +4,7 @@ project:
   title:        "Check Segment Inputs"      # Project title
   author:       "Andreas Noebel"      # Your name
   discord:      "andreas_nl"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Directly maps the inputs to the segment display"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -23,17 +23,17 @@ pinout:
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
-  ui[7]: ""
+  ui[7]: "Enable/Disable all"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "Todo"
+  uo[1]: "Todo"
+  uo[2]: "Todo"
+  uo[3]: "Todo"
+  uo[4]: "Todo"
+  uo[5]: "Todo"
+  uo[6]: "Todo"
+  uo[7]: "Todo"
 
   # Bidirectional pins
   uio[0]: ""
