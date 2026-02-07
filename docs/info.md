@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 Input swutches are directly connected to the segment display using and gates.
 The lowest inupt (7) toggle the segment display
-
+...
 ## How to test
 Todo: This needs to be added in the future
 
